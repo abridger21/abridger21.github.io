@@ -25,18 +25,18 @@ a:hover {
 
 /* Overriding Bootstrap Button Styles */
 .btn-outline-primary {
-  color: #49c5ff;
+  color: #2b547e;
   font-weight: 600;
-  border-color: #49c5ff;
+  border-color: #2b547e;
 }
 .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .open > .dropdown-toggle.btn-outline-primary {
-  background: #49c5ff;
-  border-color: #49c5ff;
+  background: #2b547e;
+  border-color: #2b547e;
 }
 
 /* Header Styling */
 .header {
-  background: #49c5ff;
+  background: #2b547e;
   color: #fff;
 }
 .header .social {
@@ -65,7 +65,7 @@ a:hover {
 
 /* Sticky Navbar */
 .sticky.is-sticky {
-  background: #49c5ff;
+  background: #2b547e;
   position: fixed;
   top: 0;
   z-index: 1000;
@@ -89,7 +89,7 @@ a:hover {
 
 /* Timeline Styling */
 .timeline {
-  border-left: 3px solid #49c5ff;
+  border-left: 3px solid #2b547e;
   border-radius: 2px;
   position: relative;
   padding: 0 30px;
@@ -116,7 +116,7 @@ a:hover {
   -o-border-radius: 50%;
   border-radius: 50%;
   background: #fff;
-  border: 3px solid #49c5ff;
+  border: 3px solid #2b547e;
 }
 .timeline .item:after {
   content: "";
@@ -134,7 +134,7 @@ a:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #49c5ff;
+  background: #2b547e;
   z-index: 10;
 }
 .timeline .job-title {
